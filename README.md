@@ -1,7 +1,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ErokhinVi&style=flat-square&color=blue" alt=""/>
 
-#Binary Classification of Machine Failures (PS3E17)
+# Binary Classification of Machine Failures (PS3E17)
 
 Описание проекта
 EDA
